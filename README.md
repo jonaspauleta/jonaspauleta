@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my personal portfolio
+- 🌱 I’m currently learning GoLang and improving my frontend capabilities
+- 📫 How to reach me: me@joaopaulosantos.dev
+- ⚡ Fun fact: Besides loving code I'm also a car guy
+
 <!--
 **jonaspauleta/jonaspauleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
