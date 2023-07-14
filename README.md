@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m own FunnySoft, https://www.funnysoft.pt
-- 🌱 I’m currently learning more on .NET and improving my frontend capabilities
+- 🔭 I own FunnySoft, a Software Development Company
+- 🌱 I’m currently learning more on .NET
 - 📫 How to reach me: joao@funnysoft.pt
 - ⚡ Fun fact: Besides loving code I'm also a car guy (I currently own a R56 JCW)
 
