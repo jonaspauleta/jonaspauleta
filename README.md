@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my personal portfolio https://joaopaulosantos.dev
-- 🌱 I’m currently learning GoLang and improving my frontend capabilities
+- 🔭 I’m own FunnySoft, https://www.funnysoft.pt
+- 🌱 I’m currently learning more on .NET and improving my frontend capabilities
 - 📫 How to reach me: me@joaopaulosantos.dev
 - ⚡ Fun fact: Besides loving code I'm also a car guy (I currently own a R56 JCW)
 
