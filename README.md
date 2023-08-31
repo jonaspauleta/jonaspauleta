@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I own FunnySoft, a Software Development Company
+- 🔭 I am a Freelancer Software Developer
 - 🌱 I’m currently learning more on .NET
-- 📫 How to reach me: joao@funnysoft.pt
-- ⚡ Fun fact: Besides loving code I'm also a car guy (I currently own a R56 JCW)
+- 📫 How to reach me: jonaspauleta2@gmail.com
+- ⚡ Fun fact: Besides loving code I'm also a car guy (I currently own a Mini JCW R56)
 
 <!--
 **jonaspauleta/jonaspauleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
