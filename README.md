@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am a Freelancer Software Developer
+- 🔭 I am a Fullstack Software Developer
 - 🌱 I’m currently learning more on .NET
 - 📫 How to reach me: jonaspauleta2@gmail.com
 - ⚡ Fun fact: Besides loving code I'm also a car guy (I currently own a Mini JCW R56)
