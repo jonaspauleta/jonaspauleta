@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I am a Fullstack Software Developer
-- 🌱 I’m currently learning more on .NET
-- 📫 How to reach me: jonaspauleta2@gmail.com
-- ⚡ Fun fact: Besides loving code I'm also a car guy (I currently own a Mini JCW R56)
+- 🌱 I’m currently learning more on GoLang and AI
+- 📫 How to reach me: jpaulo4799santos@gmail.com
+- ⚡ Fun fact: Besides loving code I'm also a car guy (I currently drive a Mini JCW R56)
 
 <!--
 **jonaspauleta/jonaspauleta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
