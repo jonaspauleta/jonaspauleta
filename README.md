@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am a Fullstack Software Developer
-- 🌱 I’m currently learning more on GoLang and AI
+- 🌱 I’m currently learning more on Rust
 - 📫 How to reach me: jpaulo4799santos@gmail.com
 - ⚡ Fun fact: Besides loving code I'm also a car guy (I currently drive a Mini JCW R56)
 
