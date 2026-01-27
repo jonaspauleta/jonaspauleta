@@ -65,15 +65,6 @@ Currently, I'm building specialized platforms for motorsport and high-performanc
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonaspauleta&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="jonaspauleta's GitHub stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaspauleta&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
-
 ### 📬 Connect
 
 * **X:** [@jonaspauleta](https://x.com/jonaspauleta) (I share my build process here)
