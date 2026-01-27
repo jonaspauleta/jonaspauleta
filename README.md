@@ -1,4 +1,4 @@
-### Hi there, I'm Jonas 👋
+### Hi there, I'm João Paulo 👋
 
 I'm a Product Engineer based in **Portugal 🇵🇹**. I bridge the gap between high-level product development and low-level systems programming.
 
