@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+<title id="title">João Paulo Santos, Forward Deployed Engineer</title>
+<desc id="desc">Deep blue banner with an abstract racing circuit. Production AI and Apex Scout.</desc>
+<rect width="1000" height="300" rx="16" fill="#12324a"/>
+<path d="M675 0H1000V300H675Z" fill="#163d56"/>
+<g fill="none" stroke="#24536c" stroke-width="1"><path d="M710 0V300M770 0V300M830 0V300M890 0V300M950 0V300M675 60H1000M675 120H1000M675 180H1000M675 240H1000"/></g>
+<path d="M805 224C764 225 750 202 758 173L785 101C796 71 825 58 851 70L933 105C960 116 966 143 947 164L911 206C897 222 878 220 866 201L852 178C839 158 820 171 824 189C828 209 824 223 805 224Z" fill="none" stroke="#80bbd1" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M805 224C764 225 750 202 758 173L769 144" fill="none" stroke="#f0b49a" stroke-width="8" stroke-linecap="round"/>
+<circle cx="769" cy="144" r="7" fill="#f0b49a" stroke="#12324a" stroke-width="3"/>
+<path d="M48 49H98" stroke="#f0b49a" stroke-width="4"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="48" y="112" fill="#ffffff" font-size="48" font-weight="700" letter-spacing="-1.5">João Paulo Santos</text>
+<text x="48" y="164" fill="#b9ddeb" font-size="29" font-weight="400">Forward Deployed Engineer</text>
+<text x="48" y="242" fill="#ffffff" font-size="20">Production AI / Supermodular.ai / Apex Scout</text>
+</g></svg>

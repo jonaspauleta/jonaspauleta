@@ -1,62 +1,45 @@
-### Hi, I'm João Paulo 👋
+![João Paulo Santos, Forward Deployed Engineer. Production AI, Supermodular.ai and Apex Scout.](assets/profile-banner.svg)
 
-Product engineer, 7+ years in **Laravel**. Currently leading AI agent development at **Voltimum** and shipping open-source Laravel packages.
+### From a customer problem to software in production.
 
-Based in **Portugal 🇵🇹**.
+I'm João, a **Forward Deployed Engineer at [Supermodular.ai](https://supermodular.ai)** and the builder behind **[Apex Scout](https://apexscout.app)**. I work across the whole product: understanding the workflow, designing the architecture, writing the code, and keeping it running.
 
----
+Based in Leiria, Portugal. More than seven years building with Laravel.
 
-### 📦 Open Source
+## Where my focus goes
 
-* **[laravel-ai-moonshot](https://github.com/jonaspauleta/laravel-ai-moonshot)** 🌙
-    * Moonshot AI (Kimi K2) provider for the Laravel AI SDK.
-    * OpenAI-compatible chat completions, streaming, tool calling, and Kimi thinking-mode reasoning.
+**Supermodular.ai**<br>
+Forward deployed engineering, with a focus on AI and software delivery.
 
-* **[scout-postgres](https://github.com/jonaspauleta/scout-postgres)** 🐘
-    * Native Postgres full-text search + `pg_trgm` engine for Laravel Scout.
-    * Drop-in replacement for Meilisearch / Algolia / Typesense when you already run Postgres.
+**Apex Scout**<br>
+A platform for track-day discovery, preparation, garage management, and community. Built from my own experience in the paddock, with a growing focus on tools for racing teams.
 
----
+## Things I've shipped
 
-### 🚀 Products
+At **Voltimum**, I built multi-agent assistants for warehouse queries and internal support, with streaming responses, evaluations, and cost controls. At **Patchstack**, I led the Vulnerability Database API rewrite and migrated the system incrementally while the existing API stayed live.
 
-* **[Apex Scout](https://apexscout.app)** 🏎️
-    * The track-day companion and motorsport event platform for EU enthusiasts.
-    * *Stack:* Laravel, Inertia.js, React, Tailwind, Postgres.
+Through **[FunnySoft](https://funnysoft.pt)**, I've taken client applications and SaaS products from the initial problem through deployment and production support.
 
----
+## Open source
 
-### ⚡ The Stack
+**[scout-postgres](https://github.com/jonaspauleta/scout-postgres)**<br>
+PostgreSQL full-text and trigram search for Laravel Scout. One less service to run. [Reproducible benchmark](https://github.com/jonaspauleta/scout-postgres-benchmark).
 
-**Core**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+**[laravel-ai-moonshot](https://github.com/jonaspauleta/laravel-ai-moonshot)**<br>
+Moonshot AI for the Laravel AI SDK, with streaming, tool calling, and reasoning support.
 
-**Frontend & Admin**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Inertia.js](https://img.shields.io/badge/Inertia-%239553E9.svg?style=for-the-badge&logo=inertia&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament_Admin-%23F2C94C.svg?style=for-the-badge&logo=laravel&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**[laravel-base-kit](https://github.com/jonaspauleta/laravel-base-kit)**<br>
+A Claude Code plugin for scaffolding Laravel, Inertia, and React projects.
 
-**Data & Realtime**
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Laravel Reverb](https://img.shields.io/badge/Reverb_(WebSockets)-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+## My working tools
 
-**Testing & CI**
-![Pest](https://img.shields.io/badge/Pest_PHP-%2321202e.svg?style=for-the-badge&logo=php&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+**Backend** / Laravel, PHP, PostgreSQL, Redis<br>
+**Frontend** / React, Next.js, TypeScript<br>
+**AI** / Tool calling, retrieval, MCP, evaluations<br>
+**Delivery** / Automated tests, static analysis, CI/CD, observability
 
-**Infra & AI**
-![Laravel Cloud](https://img.shields.io/badge/Laravel_Cloud-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Herd](https://img.shields.io/badge/Laravel_Herd-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-AI-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+Away from the keyboard, you'll find me working on my Mini JCW R56 or taking it to the track.
 
 ---
 
-### 📬 Connect
-
-* **X:** [@jonaspauleta](https://x.com/jonaspauleta) (I share my build process here)
-* **LinkedIn:** [João Paulo Santos](https://www.linkedin.com/in/joao-p-c-santos/)
+[Supermodular.ai](https://supermodular.ai) · [Apex Scout](https://apexscout.app) · [LinkedIn](https://www.linkedin.com/in/joao-p-c-santos/) · [GitHub](https://github.com/jonaspauleta) · [GitLab](https://gitlab.com/jonaspauleta)
