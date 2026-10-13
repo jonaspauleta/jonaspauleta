@@ -31,14 +31,11 @@ Moonshot AI for the Laravel AI SDK, with streaming, tool calling, and reasoning 
 **[laravel-base-kit](https://github.com/jonaspauleta/laravel-base-kit)**<br>
 A Claude Code plugin for scaffolding Laravel, Inertia, and React projects.
 
-## My working tools
+## Off the clock. On the limit.
 
-**Backend** / Laravel, PHP, PostgreSQL, Redis<br>
-**Frontend** / React, Next.js, TypeScript<br>
-**AI** / Tool calling, retrieval, MCP, evaluations<br>
-**Delivery** / Automated tests, static analysis, CI/CD, observability
+**Mini JCW R56. Built, tuned, and driven on track.**
 
-Away from the keyboard, you'll find me working on my Mini JCW R56 or taking it to the track.
+I spend my time in the garage and the paddock, chasing a better setup and a faster lap. Apex Scout started with that same obsession.
 
 ---
 
