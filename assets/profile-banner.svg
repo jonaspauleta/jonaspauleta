@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
 <title id="title">João Paulo Santos, Forward Deployed Engineer</title>
-<desc id="desc">Deep blue banner with an abstract racing circuit. Production AI and Apex Scout.</desc>
+<desc id="desc">Deep blue banner with an abstract racing circuit. supermodular.ai and apexscout.app.</desc>
 <rect width="1000" height="300" rx="16" fill="#12324a"/>
 <path d="M675 0H1000V300H675Z" fill="#163d56"/>
 <g fill="none" stroke="#24536c" stroke-width="1"><path d="M710 0V300M770 0V300M830 0V300M890 0V300M950 0V300M675 60H1000M675 120H1000M675 180H1000M675 240H1000"/></g>
@@ -11,5 +11,5 @@
 <g font-family="Arial, Helvetica, sans-serif">
 <text x="48" y="112" fill="#ffffff" font-size="48" font-weight="700" letter-spacing="-1.5">João Paulo Santos</text>
 <text x="48" y="164" fill="#b9ddeb" font-size="29" font-weight="400">Forward Deployed Engineer</text>
-<text x="48" y="242" fill="#ffffff" font-size="20">Production AI / Supermodular.ai / Apex Scout</text>
+<text x="48" y="242" fill="#ffffff" font-size="20">supermodular.ai / apexscout.app</text>
 </g></svg>

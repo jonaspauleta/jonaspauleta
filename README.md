@@ -1,4 +1,4 @@
-![João Paulo Santos, Forward Deployed Engineer. Production AI, Supermodular.ai and Apex Scout.](assets/profile-banner.svg)
+![João Paulo Santos, Forward Deployed Engineer. supermodular.ai and apexscout.app.](assets/profile-banner.svg?v=2)
 
 ### From a customer problem to software in production.
 
